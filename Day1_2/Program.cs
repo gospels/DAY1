@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day1_2
 {
+
     class Program
     {
         /*HT - parakņāties un saprast kas ir šis - kad vienu klasi ienes iekšā citā un no tās izsauc to

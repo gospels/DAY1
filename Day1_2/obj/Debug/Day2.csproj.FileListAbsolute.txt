@@ -1,0 +1,11 @@
+C:\Users\rodep\source\repos\RCS day1\Day1_2\bin\Debug\Day1_2.exe.config
+C:\Users\rodep\source\repos\RCS day1\Day1_2\bin\Debug\Day1_2.exe
+C:\Users\rodep\source\repos\RCS day1\Day1_2\bin\Debug\Day1_2.pdb
+C:\Users\rodep\source\repos\RCS day1\Day1_2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\rodep\source\repos\RCS day1\Day1_2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\rodep\source\repos\RCS day1\Day1_2\obj\Debug\Day1_2.exe
+C:\Users\rodep\source\repos\RCS day1\Day1_2\obj\Debug\Day1_2.pdb
+C:\Users\rodep\source\repos\DAY1\Day1_2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\rodep\source\repos\DAY1\Day1_2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\rodep\source\repos\DAY1\Day1_2\obj\Debug\Day1_2.exe
+C:\Users\rodep\source\repos\DAY1\Day1_2\obj\Debug\Day1_2.pdb
